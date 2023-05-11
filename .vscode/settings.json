@@ -1,0 +1,15 @@
+{
+  "C_Cpp.intelliSenseEngine": "Tag Parser",
+  "files.associations": {
+    "stdint.h": "c",
+    "gpio.h": "c",
+    "*.inc": "c",
+    "*.ipp": "c",
+    "complex": "c",
+    "unity.h": "c",
+    "led.h": "c",
+    "esp_err.h": "c",
+    "task.h": "c",
+    "freertos.h": "c"
+  }
+}
