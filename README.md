@@ -21,6 +21,8 @@ void app_main(void) {
   gpio_set_level(led_pin, 0)
 }
 ```
+## Example
+The [ESP32 Example Project](https://github.com/myfreax/esp32-example-project) demonstrates how to use IDF framework build application of reusable component
 
 
 
